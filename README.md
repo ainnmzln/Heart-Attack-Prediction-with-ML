@@ -3,7 +3,7 @@
 # Heart Attack Prediction with Machine Learning
 
 # 1. Summary
-The main objective of this project is to develop an app to predict the chance of a patient having heart attackwith machine learning model.
+The main objective of this project is to develop an app to predict the chance of a patient having heart attack with machine learning model.
 
 # 2. Datasets
 
@@ -13,7 +13,7 @@ This projects is trained with  [Heart Attack Analysis & Prediction Dataset](http
 This project is created using Spyder as the main IDE. The main frameworks used in this project are Pandas, Matplotlib, Seaborn, Scikit-learn and Streamlit.
 
 # 4. Methodology
-The flow of the projects are as follows:
+This project contains two .py files. The training and deploy files are heart_attack_train.py and deploy.py respectively. The flow of the projects are as follows:
 
 ## 1. Importing the libraries and dataset
 
