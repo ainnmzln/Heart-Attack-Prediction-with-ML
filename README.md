@@ -53,4 +53,4 @@ The data is then tested with few cases.
 ## Build the app using Streamlit
 
 An app to predict the chance of a person to get heart attack is then build using Streamlit. 
-
+[](https://github.com/ainnmzln/heart_attack_prediction_using_ML/blob/main/images/apps.png)
