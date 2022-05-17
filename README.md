@@ -23,7 +23,7 @@ The data are loaded from the dataset and usefull libraries are imported.
 
 The datasets is cleaned with necessary step. The duplicate is removed. The correlation between features are computed. 
 
-![This is an image](https://github.com/ainnmzln/heart_attack_prediction_using_ML/blob/main/Figure%202022-05-17%20162035.png)
+![This is an image](https://github.com/ainnmzln/heart_attack_prediction_using_ML/blob/main/images/Figure%202022-05-17%20162035.png)
 
 It is shown that chest pain (cp), maximum heart rate achieved (thalach) and slope have a possitive corrolation with target. 
 The data are scaled with MinMax Scaler to refine the outliers. Next the data is splitted into 70:30 train and test ratio. 
@@ -42,9 +42,9 @@ Few machine learning model suits for binary classfification problem are selected
 
 The results with the best accuracy score is K Neighbors Classifier with 84 % accuracy score. The classification report of the training is shown below. 
 
-![](https://github.com/ainnmzln/heart_attack_prediction_using_ML/blob/main/2022-05-17%20(3).png)
+![](https://github.com/ainnmzln/heart_attack_prediction_using_ML/blob/main/images/acuracy%20score.png)
 
-![](https://github.com/ainnmzln/heart_attack_prediction_using_ML/blob/main/2022-05-17%20(4).png)
+![](https://github.com/ainnmzln/heart_attack_prediction_using_ML/blob/main/images/report.png)
 
 ## Deployment
 
