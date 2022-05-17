@@ -7,7 +7,7 @@ The main objective of this project is to develop an app to predict the chance of
 
 # 2. Datasets
 
-This projects is trained with  [Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset). The 'outcome' field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
+This projects is trained with  [Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset). The 'outcome' field refers to the presence of heart disease of the patient. It is integer valued 0 = no disease and 1 = disease.
 
 # 3. Requirements
 This project is created using Spyder as the main IDE. The main frameworks used in this project are Pandas, Matplotlib, Seaborn, Scikit-learn and Streamlit.
