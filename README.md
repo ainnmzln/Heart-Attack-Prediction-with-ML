@@ -25,7 +25,7 @@ The datasets is cleaned with necessary step. The duplicate is removed. The corre
 
 ![This is an image](https://github.com/ainnmzln/heart_attack_prediction_using_ML/blob/main/images/Figure%202022-05-17%20162035.png)
 
-It is shown that chest pain (cp), maximum heart rate achieved (thalach) and slope (slp) have a possitive corrolation with target. 
+It is shown that chest pain (cp), maximum heart rate achieved (thalach) and slope (slp) have highest corrolation with target. 
 The data are scaled with MinMax Scaler to refine the outliers. Next, the data is splitted into 70:30 train and test ratio. 
 
 ## 3. Machine learning model 
