@@ -16,13 +16,12 @@ MM_SACLER_SAVE_PATH=os.path.join(os.getcwd(),'statics','mm_scaler.pkl')
 
 # load model & scaler
 mm=pickle.load(open(MM_SACLER_SAVE_PATH,'rb'))
-
 model=pickle.load(open(MODEL_SAVE_PATH,'rb'))
 
 # Dict for switch case
 heartattack_chance={0:'Less chance',1:'More chance'}
 
-# test case wiyh provided data 
+# test case with provided data 
 
 test_df=pd.DataFrame(([65, 1, 3, 142, 220, 1, 0, 158, 0, 2.3, 1, 0, 1, 1],
            [61, 1, 0, 140, 207, 0, 0, 138, 1, 1.9, 2, 1, 3, 0],
